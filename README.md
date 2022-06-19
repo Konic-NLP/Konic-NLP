@@ -4,7 +4,7 @@
 - Major technical stack:
   - Languges: Python, Java
   - ML/DL: scikit-learn/Keras
-  - web development framework: Django
+  - web development framework: Django, Flask
 - 📫 my email is Sijia.Ge@colorado.edu and welcome to connect me on the [Linkedln](https://www.linkedin.com/in/sijia-ge-b44392210/) or browse my [personal website](http://Konic-NLP.github.io).
 
 <!---
