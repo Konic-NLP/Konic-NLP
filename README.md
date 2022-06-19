@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sijia Ge, you can also call me Konic. right now I am a graduate student of computational linguistics at CU-Boulder
 - 👀 I’m interested in NLP, computational linguistics, machine learning and deep learning, besides this, I am interested in web development as well.
-- 💞️ right now I am seeking a summer internship!!
+-  right now I am seeking a summer internship!!
 - Major technical stack:
   - Languges: Python, Java
   - ML/DL: scikit-learn/Keras
