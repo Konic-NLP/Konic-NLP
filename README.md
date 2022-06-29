@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Sijia Ge, you can also call me Konic. right now I am a graduate student of computational linguistics at CU-Boulder
 - 👀 I’m interested in NLP, computational linguistics, machine learning and deep learning, besides this, I am interested in web development as well.
 -  right now I am seeking a summer internship!!
-- Major technical stack:
-  - Languges: Python, Java
-  - ML/DL: scikit-learn/Keras
-  - web development framework: Django, Flask
+
+- My major technical stacks:  
+  - Programming languages: ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  - ML/DL: ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+  - Web development: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 - 📫 my email is Sijia.Ge@colorado.edu and welcome to connect me on the [Linkedln](https://www.linkedin.com/in/sijia-ge-b44392210/) or browse my [personal website](http://Konic-NLP.github.io).
 
 <!---
