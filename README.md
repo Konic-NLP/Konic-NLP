@@ -8,7 +8,14 @@
   - Web development: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - 📫 my email is Sijia.Ge@colorado.edu and welcome to connect me on the [Linkedln](https://www.linkedin.com/in/sijia-ge-b44392210/) or browse my [personal website](http://Konic-NLP.github.io).
 ![Sijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=konic-nlp&show_icons=true&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konic-nlp&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konic-nlp&layout=compact)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=konic-nlp&repo=github-readme-stats&show_icons=true&theme=transparent" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!---
 Konic-NLP/Konic-NLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
