@@ -8,6 +8,7 @@
   - Web development: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 - 📫 my email is Sijia.Ge@colorado.edu and welcome to connect me on the [Linkedln](https://www.linkedin.com/in/sijia-ge-b44392210/) or browse my [personal website](http://Konic-NLP.github.io).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konic-nlp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konic-nlp&layout=compact)](https://github.com/anuraghazra/github-readme-stats
 <!---
 Konic-NLP/Konic-NLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
